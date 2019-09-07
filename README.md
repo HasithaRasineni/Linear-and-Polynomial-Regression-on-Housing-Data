@@ -8,4 +8,4 @@ Basic Implementation of Linear and Polynomial Regression on 'housing.csv' datase
 - Column4: MEDV (median value of owner-occupied homes)
 
 **Goal:**
-To predict the price of a house based on the number of rooms (Area) in the house using Linear and Polynmial Regression algorithms.
+To predict the price of a house based on the number of rooms (Area) in the house using Linear and Polynomial Regression algorithms.
